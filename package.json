@@ -16,7 +16,8 @@
     "axios": "^0.17.0",
     "nuxt": "^1.0.0-rc11",
     "tachyons": "^4.8.1",
-    "tachyons-debug": "^1.1.10"
+    "tachyons-debug": "^1.1.10",
+    "vuex": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
